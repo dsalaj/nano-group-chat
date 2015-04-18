@@ -1,0 +1,288 @@
+listening on *:3000
+a user connected
+a user connected
+a user connected
+a user connected
+user disconnected
+user disconnected
+user disconnected
+Sat, 18 Apr 2015 16:27:37 GMT express deprecated res.sendfile: Use res.sendFile instead at index.js:6:7
+a user connected
+login: fqewfw
+message: were
+user disconnected
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+login: hdhdbd
+user disconnected
+a user connected
+login: hjv
+user disconnected
+a user connected
+login: gbj
+message: hbjv
+message: vvh
+message: 
+message: gbj
+user disconnected
+a user connected
+login: dqwfw
+message: fwef
+message: wef
+message: g
+message: ewgoogewj
+message: gbjghj
+message: g
+message: iok
+message: gh
+message: fg
+message: fuf
+message: fuf
+message: giuzg
+message: fhh
+user disconnected
+a user connected
+login: ghjj
+message: hbj
+user disconnected
+a user connected
+login: ghjj
+message: vhh
+user disconnected
+a user connected
+login: chjh
+message: hjkg
+message: hjkggjj
+message: gh
+message: 
+message: ghjh
+message: dqwwd
+message: qfw
+message: ffe
+message: dewfe
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+user disconnected
+a user connected
+message: vb
+message: gb
+message: hh
+message: cc
+message: g
+message: b
+message: ff
+user disconnected
+a user connected
+login: DG jj
+message: jdd
+message: jddf
+message: jddfh
+message: jddfhg
+message: 
+message: 
+message: d
+message: f
+message: g
+message: erg
+message: 
+message: g3
+message: 
+message: 43
+message: t
+message: we
+message: w
+message: f
+message: ds
+message: 
+message: 4r
+message: 34
+message: t
+message: er
+message: t
+message: w4
+message: t
+message: wt4
+message: w
+message: et
+message: 4t
+message: bshdhd
+user disconnected
+a user connected
+login: ewrewg
+message: wer
+message: we
+message: t
+message: 4
+message: t4
+message: 
+message: rw
+message: d
+message: 
+message: f
+message: g
+message: w
+message: f
+message: r
+message: ve
+message: f
+message: edf
+message: ds
+message: v
+message: ew
+message: 
+message: e
+message: rg
+message: rgwg
+message: 
+message: rgwgg
+message: sv
+message: sv
+message: b
+message: bt
+message: btv
+message: btvvr
+message: vr
+message: g
+message: rg
+user disconnected
+user disconnected
+a user connected
+login: fwqef
+message: qfef
+user disconnected
+a user connected
+login: qwe
+message: qfe
+message: qe
+user disconnected
+a user connected
+user disconnected
+a user connected
+login: dwqf
+user disconnected
+a user connected
+login: fewqfe
+message: wefe
+user disconnected
+a user connected
+login: eqwe
+message: qewe
+message: qwe
+user disconnected
+a user connected
+user disconnected
+a user connected
+login: qwr
+message: qwr
+listening on *:3000
+a user connected
+a user connected
+Sat, 18 Apr 2015 17:14:13 GMT express deprecated res.sendfile: Use res.sendFile instead at index.js:7:7
+user disconnected
+a user connected
+login: qwewqe
+Missing error handler on `socket`.
+TypeError: Object #<Server> has no method 'socket'
+    at Socket.<anonymous> (/usr/share/nginx/html/chat/index.js:19:8)
+    at Socket.emit (events.js:95:17)
+    at Socket.onevent (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)
+user disconnected
+a user connected
+login: qwewq
+Missing error handler on `socket`.
+TypeError: Object #<Server> has no method 'socket'
+    at Socket.<anonymous> (/usr/share/nginx/html/chat/index.js:19:8)
+    at Socket.emit (events.js:95:17)
+    at Socket.onevent (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)
+user disconnected
+a user connected
+a user connected
+login: awwfr
+Missing error handler on `socket`.
+TypeError: Object #<Server> has no method 'socket'
+    at Socket.<anonymous> (/usr/share/nginx/html/chat/index.js:19:8)
+    at Socket.emit (events.js:95:17)
+    at Socket.onevent (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)
+user disconnected
+user disconnected
+a user connected
+login: ghkk
+Missing error handler on `socket`.
+TypeError: Object #<Server> has no method 'socket'
+    at Socket.<anonymous> (/usr/share/nginx/html/chat/index.js:19:8)
+    at Socket.emit (events.js:95:17)
+    at Socket.onevent (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)
+user disconnected
+user disconnected
+a user connected
+login: qwee
+Missing error handler on `socket`.
+TypeError: Object #<Server> has no method 'socket'
+    at Socket.<anonymous> (/usr/share/nginx/html/chat/index.js:19:8)
+    at Socket.emit (events.js:95:17)
+    at Socket.onevent (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)
+user disconnected
+a user connected
+login: qwed
+Missing error handler on `socket`.
+TypeError: Object #<Server> has no method 'socket'
+    at Socket.<anonymous> (/usr/share/nginx/html/chat/index.js:19:8)
+    at Socket.emit (events.js:95:17)
+    at Socket.onevent (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:330:8)
+    at Socket.onpacket (/usr/share/nginx/html/chat/node_modules/socket.io/lib/socket.js:290:12)
+    at Client.ondecoded (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:193:14)
+    at Decoder.Emitter.emit (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/node_modules/component-emitter/index.js:134:20)
+    at Decoder.add (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/socket.io-parser/index.js:247:12)
+    at Client.ondata (/usr/share/nginx/html/chat/node_modules/socket.io/lib/client.js:175:18)
+    at Socket.emit (events.js:95:17)
+    at Socket.onPacket (/usr/share/nginx/html/chat/node_modules/socket.io/node_modules/engine.io/lib/socket.js:99:14)
+user disconnected
